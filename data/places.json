@@ -62,10 +62,12 @@
   {
     "name": "St Julien Hotel & Spa",
     "lat": 40.015846,
-    "lon": -105.282758
+    "lon": -105.282758,
+    "value": 5,
+    "waitTime": 10
   },
   {
-    "name": "Lucky's Market",
+    "name": "Lucky's Market, North Boulder",
     "lat": 40.047391,
     "lon": -105.280999
   },
@@ -152,7 +154,9 @@
   {
     "name": "The Boulder Dushanbe Teahouse",
     "lat": 40.0154402,
-    "lon": -105.2772802
+    "lon": -105.2772802,
+    "waitTime": 5,
+    "value": 2
   },
   {
     "name": "Farmers Insurance - John Stringfellow",
@@ -210,22 +214,22 @@
     "lon": -105.205294
   },
   {
-    "name": "Moe's Broadway Bagel",
+    "name": "Moe's Broadway Bagel, Arapahoe & 30th",
     "lat": 40.0149452,
     "lon": -105.2519829
   },
   {
-    "name": "Moe's Broadway Bagel",
+    "name": "Moe's Broadway Bagel, North Broadway",
     "lat": 40.0250503,
     "lon": -105.2810448
   },
   {
-    "name": "Moe's Broadway Bagel",
+    "name": "Moe's Broadway Bagel, 28th",
     "lat": 40.0340292,
     "lon": -105.2590545
   },
   {
-    "name": "Moe's Broadway Bagel",
+    "name": "Moe's Broadway Bagel, South Broadway",
     "lat": 39.9832044,
     "lon": -105.2499644
   },
@@ -242,7 +246,9 @@
   {
     "name": "Alfalfa's Market",
     "lat": 40.0136922,
-    "lon": -105.2786977
+    "lon": -105.2786977,
+    "value": 5,
+    "waitTime": 15
   },
   {
     "name": "Embassy Suites by Hilton Boulder",
@@ -285,7 +291,7 @@
     "lon": -105.2568063
   },
   {
-    "name": "40.075853, -105.193356",
+    "name": "Some random north boulder bike path",
     "lat": 40.075853,
     "lon": -105.193356
   },
