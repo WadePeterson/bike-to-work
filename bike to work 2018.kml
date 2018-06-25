@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>First Presbyterian Church</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.274874,40.017317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google Building 2930</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2544682,40.0216674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Community Cycles Goose Creek Super Station: On the Goose Creek Path</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2484526,40.0255783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGNU Community Radio</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.24294,40.019405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zeal Optics</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.279758,40.01885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liquor Mart</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.274662,40.01623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Made In Nature</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.277182,40.014688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nite Ize Inc</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2217594,40.0197474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nite Ize DC</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2057099,40.0673061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PEARL iZUMi USA</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.1175307,39.9714327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RallySport Health and Fitness Club</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2567469,40.027937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Galvanize - Walnut St</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2816902,40.0165858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St Julien Hotel & Spa]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.282758,40.015846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lucky's Market]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.280999,40.047391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zeal</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2729781,40.0191054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spruce Confections</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2855492,40.0169186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spruce Cafe</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2423372,40.0222163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Only Natural Pet - Boulder Flagship Store</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2577469,40.0239062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SurveyGizmo Bacon Bar: 4100 Pearl Pkwy</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2440034,40.0230057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[New Leaf Chiropractic & Family Wellness]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.152962,40.151526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[RallySport Health and Fitness & Boulder Bicycle Works]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2567469,40.027937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder Seventh-day Adventist Church</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2919524,40.0209036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dish Gourmet</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2701526,40.0197242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Federal Credit Union</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.258031,40.014349,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FirstBank</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.280292,40.019255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ONNO T-SHIRT COMPANY | good shirts</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2746025,40.0213915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crestview Christian Church</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2468382,40.0069581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder County Sheriff Office</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2236643,40.0227331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Recurly</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2809571,40.0159621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CU Boulder Alumni Association</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2759503,40.0099775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Boulder Dushanbe Teahouse</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2772802,40.0154402,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farmers Insurance - John Stringfellow</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2852641,40.0161509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Free2b Foods & Bobo's Oat Bars Breakfast Bonanza!]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.204543,40.0710588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flatirons Solutions</name>
+      <description>5775 Central Ave</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2215484,40.0255474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>First National Bank</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2530045,40.0368385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CA Technologies</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2491434,40.0209502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eric Peltier at Citywide Home Loans</name>
+      <description>Bike path at top of Mesa along hwy 36</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -105.1879549,39.9672207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elevations Credit Union</name>
+      <description>Northwest Corner of Broadway and Table Mesa</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2509975,39.9857028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>One Boulder Fitness</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2790595,40.0164336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Premier Members Credit Union</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2243524,40.0152652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder B-Cycle</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2476504,40.0154357,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mountain Shadows Montessori School</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.205294,40.0496836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Moe's Broadway Bagel]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2519829,40.0149452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Moe's Broadway Bagel]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2810448,40.0250503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Moe's Broadway Bagel]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2590545,40.0340292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Moe's Broadway Bagel]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2499644,39.9832044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Presence Marketing - Dynamic Presence</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2631859,40.0194844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sportiva Retail Factory Store</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.246006,40.021269,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alfalfa's Market]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2786977,40.0136922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Embassy Suites by Hilton Boulder</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.260128,40.0178563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Active Solutions Physical Therapy</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.24595,39.980318,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulder Community Health</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2362495,40.0164585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Commerce Home Mortgage</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2741117,40.0194136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Chef</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2266636,40.0163007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BSW Wealth Partners</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2647005,40.0207057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rapha Boulder</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2715825,40.0198646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2872 Baseline Rd</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2568063,40.0002346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40.075853, -105.193356</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.193356,40.075853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>REI</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -105.2596238,40.0192333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
