@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
-    "allowJs": true,
-    "checkJs": true,
+    "outDir": "dist",
+    "skipLibCheck": true,
     "strict": true,
     "target": "es6",
+    "module": "commonjs",
     "noUnusedLocals": true,
-    "noUnusedParameters": true
+    "noUnusedParameters": true,
+    "sourceMap": true
   },
   "exclude": [
     "node_modules"
