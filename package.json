@@ -1,7 +1,8 @@
 {
   "scripts": {
     "build": "rm -rf dist && tsc",
-    "start": "yarn build && node dist/findRoute.js"
+    "start": "yarn build && node dist/findRoute.js",
+    "printRoutes": "yarn build && node dist/printRoutes.js"
   },
   "devDependencies": {
     "@types/node": "8.9.4",
